@@ -1,0 +1,7 @@
+{
+  "name": "TodoList Hiện Đại & Hướng Dẫn Từng Bước",
+  "description": "Ứng dụng TodoList hiện đại kèm sơ đồ luồng hoạt động, mã nguồn mẫu Vanilla JS và hướng dẫn chi tiết từng bước cho người mới bắt đầu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
